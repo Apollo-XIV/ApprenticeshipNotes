@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Manageability.md",
+                "file": "Cloud Computing/SaaS.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +44,7 @@
       {
         "id": "9b056bf2952f0bea",
         "type": "tabs",
+        "dimension": 66.98292220113852,
         "children": [
           {
             "id": "f1479001f1c9bd00",
@@ -83,6 +84,7 @@
       {
         "id": "a7537b86b097dc02",
         "type": "tabs",
+        "dimension": 33.017077798861486,
         "children": [
           {
             "id": "8ce7af46b2a82213",
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Manageability.md",
+                "file": "Cloud Computing/SaaS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Manageability.md",
+                "file": "Cloud Computing/SaaS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Manageability.md"
+                "file": "Cloud Computing/SaaS.md"
               }
             }
           }
@@ -176,15 +178,15 @@
   },
   "active": "628667ee0c3e3723",
   "lastOpenFiles": [
+    "Cloud Computing/PaaS.md",
+    "Cloud Computing/IaaS.md",
+    "Cloud Computing/Cloud Manageability.md",
     "Vendor Certs/Microsoft Azure Fundamentals.md",
     "Cloud Computing/Cloud Security.md",
     "Cloud Computing/Cloud Predictability.md",
     "Cloud Computing/Cloud Availability.md",
     "Cloud Computing/Azure SLAs.md",
     "Cloud Computing/Shared-Responsibility Model.md",
-    "Cloud Computing/History of the Cloud.md",
-    "Cloud Computing/Cloud Computing.md",
-    "Pasted image 20230131161932.png",
-    "Lesson Notes/Cloud Essentials - 1.md"
+    "Cloud Computing/History of the Cloud.md"
   ]
 }
