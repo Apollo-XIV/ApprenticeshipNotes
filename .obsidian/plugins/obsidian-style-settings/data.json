@@ -1,0 +1,7 @@
+{
+  "ul-theme-settings@@color-accent": "var(--color-green)",
+  "ul-theme-settings@@ul-minimal-status": true,
+  "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
+  "ul-theme-settings@@ul-theme-light": "ul-lobstertime-lt",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark"
+}
