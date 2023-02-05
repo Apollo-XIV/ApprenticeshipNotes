@@ -9,3 +9,10 @@
 [[Cloud Predictability]]
 [[Cloud Security]]
 [[Cloud Manageability]]
+
+# Describing Azure Architecture & Services
+[[Microsoft Azure]]
+[[IaaS#Azure Virtual Machines]]
+
+
+
