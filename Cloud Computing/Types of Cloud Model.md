@@ -13,6 +13,9 @@ Hybrid describes a cloud computing model that makes use of both a public and a p
 | Organisations pay only for what they use                              | Hardware must be purchased for startup and maintenance             | Organisations control security, compliance, or legal requirements |
 | Organisations don't have complete control over resources and security | Organisations are responsible for hardware maintenance and updates |                                                                   |
 
+# Community Cloud
+Access to the cloud is not exclusive however is restricted to those of a certain group or business network. 
+
 # Multi-Cloud
 Some organisations may find themselves using multiple cloud providers at the same time, either in order to access specific features from each provider or as part of a transitionary period.
 

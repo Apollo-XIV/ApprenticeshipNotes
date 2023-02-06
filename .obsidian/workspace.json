@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/PaaS.md",
+                "file": "Cloud Computing/XaaS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Types of Cloud Model.md",
+                "file": "Cloud Networking Technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f09cf2f47e3d6a0f",
+            "id": "3adb59e5cd920864",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,17 +44,19 @@
             }
           },
           {
-            "id": "102bf6c5269ddb47",
+            "id": "960715ba94a295a5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To-Do.md"
+                "file": "Cloud Computing/Microsoft Azure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +68,6 @@
       {
         "id": "9b056bf2952f0bea",
         "type": "tabs",
-        "dimension": 56.77867902665121,
         "children": [
           {
             "id": "f1479001f1c9bd00",
@@ -104,9 +105,8 @@
         ]
       },
       {
-        "id": "824f9206bcd0b2ec",
+        "id": "af5027ecab5ba64d",
         "type": "tabs",
-        "dimension": 43.22132097334878,
         "children": [
           {
             "id": "9c307de27fd42528",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do.md",
+                "file": "Cloud Networking Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do.md",
+                "file": "Cloud Networking Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do.md"
+                "file": "Cloud Networking Technologies.md"
               }
             }
           }
@@ -199,17 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "102bf6c5269ddb47",
+  "active": "9fefaa4ec3cd9ffe",
   "lastOpenFiles": [
-    "Pasted image 20230203151118.png",
+    "Vendor Certs/CompTIA Cloud Essentials.md",
+    "Cloud Computing/XaaS.md",
     "Cloud Computing/Types of Cloud Model.md",
-    "Cloud Computing/Shared-Responsibility Model.md",
+    "Cloud Computing/Consumption-Based Model.md",
+    "Cloud Computing/Infrastructure & Components.md",
+    "Cloud Computing/SaaS.md",
+    "To-Do.md",
+    "Lesson Notes/Cloud Essentials - 1.md",
     "Cloud Computing/Virtual Networking.md",
-    "Cloud Computing/IaaS.md",
-    "Vendor Certs/Microsoft Azure Fundamentals.md",
-    "Cloud Computing/Microsoft Azure.md",
-    "Cloud Computing/Azure SLAs.md",
-    "Cloud Computing/Cloud Availability.md",
-    "Cloud Computing/Cloud Security.md"
+    "Cloud Computing/History of the Cloud.md"
   ]
 }

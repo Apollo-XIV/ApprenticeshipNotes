@@ -1,5 +1,6 @@
 {
   "accentColor": "#117e4f",
   "cssTheme": "Ultra Lobster",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 17
 }

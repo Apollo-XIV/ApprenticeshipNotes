@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Tasks
 
-- [ ] Complete Cloud Essentials
+- [ ] Complete [[CompTIA Cloud Essentials]]
 
 
 ## Active
 
-- [ ] Complete Azure Fundamentals
+- [ ] Complete [[Microsoft Azure Fundamentals]]
 - [ ] Complete IT Essentials
 
 

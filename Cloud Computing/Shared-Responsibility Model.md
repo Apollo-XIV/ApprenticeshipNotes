@@ -12,6 +12,9 @@ Platform as a Service operates as a form of middle-ground between IaaS and SaaS 
 ## [[SaaS]] (Software as a Service)
 Software as a Service has the most of all the options handled by the provider as the service provided is generally complete as is.
 
+## [[XaaS]] (Anything as a Service)
+Anything as a Service describes any technology solution that has moved to the cloud. They can be anywhere in the Shared-Responsibility Model.
+
 ![[Pasted image 20230131161932.png]]
 
 
