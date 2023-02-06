@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#azure",
+      "color": {
+        "a": 1,
+        "rgb": 4063218
+      }
+    },
+    {
+      "query": "tag:#cloud",
+      "color": {
+        "a": 1,
+        "rgb": 12344534
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5440405169338747,
+  "scale": 0.37816765045339196,
   "close": true
 }

@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fefaa4ec3cd9ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/Types of Cloud Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f09cf2f47e3d6a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/Types of Cloud Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102bf6c5269ddb47",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "To-Do.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/PaaS.md",
+                "file": "To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/PaaS.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +166,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -141,11 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/PaaS.md"
+                "file": "To-Do.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,17 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "628667ee0c3e3723",
+  "active": "102bf6c5269ddb47",
   "lastOpenFiles": [
-    "Cloud Computing/Microsoft Azure.md",
-    "Vendor Certs/Microsoft Azure Fundamentals.md",
-    "Vendor Certs/CompTIA Cloud Essentials.md",
+    "Pasted image 20230203151118.png",
     "Cloud Computing/Types of Cloud Model.md",
-    "Cloud Computing/IaaS.md",
     "Cloud Computing/Shared-Responsibility Model.md",
-    "Cloud Computing/Cloud Security.md",
-    "Cloud Computing/Consumption-Based Model.md",
-    "Cloud Computing/Cloud Predictability.md",
-    "Cloud Computing/Cloud Manageability.md"
+    "Cloud Computing/Virtual Networking.md",
+    "Cloud Computing/IaaS.md",
+    "Vendor Certs/Microsoft Azure Fundamentals.md",
+    "Cloud Computing/Microsoft Azure.md",
+    "Cloud Computing/Azure SLAs.md",
+    "Cloud Computing/Cloud Availability.md",
+    "Cloud Computing/Cloud Security.md"
   ]
 }

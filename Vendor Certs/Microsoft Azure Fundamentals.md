@@ -13,6 +13,10 @@
 # Describing Azure Architecture & Services
 [[Microsoft Azure]]
 [[IaaS#Azure Virtual Machines]]
+[[PaaS#Azure Virtual Desktop]]
+[[Containerisation]]
+[[SaaS#Azure Aps]]
+
 
 
 
