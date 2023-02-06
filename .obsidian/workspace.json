@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Microsoft Azure.md",
+                "file": "Cloud Computing/PaaS.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "24e93119d09ad1a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c307de27fd42528",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -45,6 +31,7 @@
       {
         "id": "9b056bf2952f0bea",
         "type": "tabs",
+        "dimension": 56.77867902665121,
         "children": [
           {
             "id": "f1479001f1c9bd00",
@@ -80,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "824f9206bcd0b2ec",
+        "type": "tabs",
+        "dimension": 43.22132097334878,
+        "children": [
+          {
+            "id": "9c307de27fd42528",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Computing/PaaS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Computing/PaaS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Computing/PaaS.md"
+              }
             }
           }
         ]
@@ -157,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c307de27fd42528",
+  "active": "628667ee0c3e3723",
   "lastOpenFiles": [
     "Cloud Computing/Microsoft Azure.md",
     "Vendor Certs/Microsoft Azure Fundamentals.md",
