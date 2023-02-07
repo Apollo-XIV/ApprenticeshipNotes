@@ -1,0 +1,1 @@
+Autoscaling is the process of automatically adjusting your resources to match demand. Autoscaling can be setup using most if not all major cloud providers, and is essential for large scale deployments and [[Cloud Predictability#Reliability|Reliability]]

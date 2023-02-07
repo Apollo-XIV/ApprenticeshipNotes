@@ -11,8 +11,8 @@ kanban-plugin: basic
 
 ## Active
 
-- [ ] Complete [[Microsoft Azure Fundamentals]]
 - [ ] Complete IT Essentials
+- [ ] Complete [[Microsoft Azure Fundamentals]]
 
 
 ## BackBurner

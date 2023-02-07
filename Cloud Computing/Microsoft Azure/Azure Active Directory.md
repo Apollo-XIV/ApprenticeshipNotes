@@ -1,0 +1,2 @@
+# Azure Active Directory
+Azure AD is a cloud based identity and login system. It functions as a cloud based counterpart for Microsoft's on-prem ActiveDirectory. Azure AD has a host of features, including but not limited to Authentication, Single Sign on, Application Management, and Device management.

@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5bbb344062c454",
+        "id": "fdc80007f7be3b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "628667ee0c3e3723",
+            "id": "9e2b16194d2c0fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/XaaS.md",
+                "file": "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9fefaa4ec3cd9ffe",
+            "id": "365a6fe4b6dbb9a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Networking Technologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3adb59e5cd920864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing/Types of Cloud Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "960715ba94a295a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing/Microsoft Azure.md",
+                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,20 +79,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "af5027ecab5ba64d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c307de27fd42528",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Networking Technologies.md",
+                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Networking Technologies.md",
+                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Networking Technologies.md"
+                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md"
               }
             }
           }
@@ -199,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fefaa4ec3cd9ffe",
+  "active": "365a6fe4b6dbb9a2",
   "lastOpenFiles": [
-    "Vendor Certs/CompTIA Cloud Essentials.md",
-    "Cloud Computing/XaaS.md",
-    "Cloud Computing/Types of Cloud Model.md",
-    "Cloud Computing/Consumption-Based Model.md",
-    "Cloud Computing/Infrastructure & Components.md",
-    "Cloud Computing/SaaS.md",
+    "Cloud Computing/Microsoft Azure/1. Intro to Microsoft Azure.md",
+    "Cloud Computing/Microsoft Azure/Azure Subscriptions.md",
+    "Cloud Computing/Cloud Technology/Virtual Networking.md",
+    "Cloud Computing/Cloud Technology/Autoscaling.md",
+    "Cloud Computing/Cloud Technology/Load Balancing.md",
+    "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
     "To-Do.md",
-    "Lesson Notes/Cloud Essentials - 1.md",
-    "Cloud Computing/Virtual Networking.md",
-    "Cloud Computing/History of the Cloud.md"
+    "Cloud Computing/Cloud Properties/Cloud Predictability.md",
+    "Cloud Computing/Cloud Models/IaaS.md",
+    "Cloud Computing/Cloud Models/Shared-Responsibility Model.md"
   ]
 }

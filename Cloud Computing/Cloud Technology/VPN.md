@@ -22,7 +22,7 @@ When dealing with important data, you want to be able to ensure that your inform
 This is a default VPN configuration with gateways deployed in two instances, one active vand one standby. This means that when something unexpected or planned happens the standby interface can take over and allow work to continue. Connection may be interrupted during this failover, but generally connection can be restored after a few seconds.
 ## Active/Active
 With the introduction of support for BGP (Border Gateway Protocol) you can also deploy VPN gateways in an active/active configuration. With this, each gateway has a unique public IP address. This creates seperate tunnels for each IP address to the device on-premises. To increase availability you can install an additional VPN device on-premises.
-## [[Microsoft Azure#ExpressRoute|ExpressRoute]] Failover
+## [[1. Intro to Microsoft Azure#ExpressRoute|ExpressRoute]] Failover
 A VPN can be configured as a failover for an ExpressRoute Gateway. This means that should the secure connection fail over the dedicated network, an alternate path via a secure VPN over the internet can be used instead.
 ## Zone-Redundant Gateways
 Availability zones and VPNs can be configured in a zone-resilient configuration. This brings resiliency, scalability, and higher availability to virtual network gateways. This means that your connection to your cloud environment is not dependent upon a single zone, but instead distributed across all of them.
