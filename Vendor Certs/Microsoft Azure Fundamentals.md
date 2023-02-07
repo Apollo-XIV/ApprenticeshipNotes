@@ -11,17 +11,17 @@
 [[Cloud Manageability]]
 
 # Describing Azure Architecture & Services
-[[1. Intro to Microsoft Azure]]
+[[Microsoft Azure]]
 [[IaaS#Azure Virtual Machines|Azure Virtual Machines]]
 [[PaaS#Azure Virtual Desktop|Azure Virtual Desktop]]
 [[Containerisation]]
 [[SaaS#Azure Apps|Azure Apps]]
 [[VPN]]
-[[1. Intro to Microsoft Azure#ExpressRoute|ExpressRoute]]
-[[1. Intro to Microsoft Azure#Azure DNS|Azure DNS]]
+[[Microsoft Azure#ExpressRoute|ExpressRoute]]
+[[Microsoft Azure#Azure DNS|Azure DNS]]
 
 # Describing Azure Storage Devices
-[[1. Intro to Microsoft Azure#Storage Accounts|Azure Storage Accounts]]
+[[Microsoft Azure#Storage Accounts|Azure Storage Accounts]]
 
 
 

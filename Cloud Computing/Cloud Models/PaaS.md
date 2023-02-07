@@ -7,7 +7,7 @@ PaaS may be seen in the two following example scenarios:
 - **Analytics:** Tools provided as a service with PaaS allow organizations to analyze and mine their data, finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns, and other business decisions.
 
 # Azure Virtual Desktop
-[[1. Intro to Microsoft Azure]] Virtual Desktop is Microsoft's own PaaS solution, allowing access to a virtualised Windows PC from anywhere at any time (provided you have a network connection of course). Leaving the local device without any local storage has certain security advantages, and the OS is fully integrated with Azure AD.
+[[Microsoft Azure]] Virtual Desktop is Microsoft's own PaaS solution, allowing access to a virtualised Windows PC from anywhere at any time (provided you have a network connection of course). Leaving the local device without any local storage has certain security advantages, and the OS is fully integrated with Azure AD.
 
 --- 
 #azure #cloud #theory #security 

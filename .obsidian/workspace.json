@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "365a6fe4b6dbb9a2",
+            "id": "04c9d114307c2487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
+                "file": "Cloud Computing/Cloud Compliance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d2f891303db8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Project Proposal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,6 +56,7 @@
       {
         "id": "9b056bf2952f0bea",
         "type": "tabs",
+        "dimension": 57.17592592592593,
         "children": [
           {
             "id": "f1479001f1c9bd00",
@@ -79,6 +92,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "a688429d3ccae6e0",
+        "type": "tabs",
+        "dimension": 42.824074074074076,
+        "children": [
+          {
+            "id": "365a6fe4b6dbb9a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
+                "file": "Practice Project Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md",
+                "file": "Practice Project Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Microsoft Azure/Azure Storage.md"
+                "file": "Practice Project Proposal.md"
               }
             }
           }
@@ -161,17 +189,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "365a6fe4b6dbb9a2",
+  "active": "b5d2f891303db8e3",
   "lastOpenFiles": [
-    "Cloud Computing/Microsoft Azure/1. Intro to Microsoft Azure.md",
+    "Untitled.canvas",
+    "Resources & Resource Groups.md",
+    "Cloud Computing/Cloud Compliance.md",
+    "Practice Project Proposal.md",
+    "Cloud Computing/Microsoft Azure/Microsoft Azure.md",
+    "Cloud Computing/Microsoft Azure/Azure Storage.md",
     "Cloud Computing/Microsoft Azure/Azure Subscriptions.md",
     "Cloud Computing/Cloud Technology/Virtual Networking.md",
     "Cloud Computing/Cloud Technology/Autoscaling.md",
-    "Cloud Computing/Cloud Technology/Load Balancing.md",
-    "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
-    "To-Do.md",
-    "Cloud Computing/Cloud Properties/Cloud Predictability.md",
-    "Cloud Computing/Cloud Models/IaaS.md",
-    "Cloud Computing/Cloud Models/Shared-Responsibility Model.md"
+    "Cloud Computing/Cloud Technology/Load Balancing.md"
   ]
 }

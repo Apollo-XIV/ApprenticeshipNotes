@@ -19,4 +19,4 @@ You may create additional subscriptions for the following reasons:
 ## Azure Management Groups
 The last piece of management is Management Groups. These allow you to divide resource groups into different projects or applications being developed into different groups to allow for easier management of projects and development.
 ![[Pasted image 20230203151118.png]]
-Unlike [[1. Intro to Microsoft Azure#Resources & Resource Groups|Resource Groups]], management groups can be nested up to 6 times, allowing for a high degree of organisation.
+Unlike [[Microsoft Azure#Resources & Resource Groups|Resource Groups]], management groups can be nested up to 6 times, allowing for a high degree of organisation.
