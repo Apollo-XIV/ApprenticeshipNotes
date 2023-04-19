@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Cloud Compliance.md",
+                "file": "Practice Project Proposal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5d2f891303db8e3",
+            "id": "38c91c736e8717f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Project Proposal.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Project Proposal.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Project Proposal.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Project Proposal.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -189,12 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d2f891303db8e3",
+  "active": "38c91c736e8717f4",
   "lastOpenFiles": [
+    "Practice Project Proposal.md",
+    "Untitled.md",
+    "To-Do.md",
+    "Cloud Computing/Cloud Compliance.md",
     "Untitled.canvas",
     "Resources & Resource Groups.md",
-    "Cloud Computing/Cloud Compliance.md",
-    "Practice Project Proposal.md",
     "Cloud Computing/Microsoft Azure/Microsoft Azure.md",
     "Cloud Computing/Microsoft Azure/Azure Storage.md",
     "Cloud Computing/Microsoft Azure/Azure Subscriptions.md",

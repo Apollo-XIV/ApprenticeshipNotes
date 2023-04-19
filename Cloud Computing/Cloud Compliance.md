@@ -11,7 +11,6 @@ This is an american stadard that is required of any entity that would like to ac
 # CSA STAR Certification
 *Cloud Security Alliance*
 This is an independent organisation that ensures certain levels of security within a cloud infrastructure. CSA STAR ensures compliance with ISO/IEC 27001 and ensures criteria described in CCM (Cloud Controls Matrix) are met. Candidates are also assessed against the STAR Capability Maturity Model for the management of activities in CCM areas.
-
 # GDPR
 *General Data Protection Regulations*
 This is a set of laws made by the EU to ensure consumer data is held responsibly, safely, and considerately of their privacy and rights. GDPR applies no matter where you are located, as long as you have EU customers.
