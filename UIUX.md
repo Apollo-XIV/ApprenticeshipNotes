@@ -1,0 +1,3 @@
+- Consistent Branding across fascias
+- Continuous improvement with promoted experiments and beta testing
+- Using Monitoring and Analytics to optimise user experience 
