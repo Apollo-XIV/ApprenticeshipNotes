@@ -4,40 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc80007f7be3b3d",
+        "id": "6ede18069befc7da",
         "type": "tabs",
         "children": [
           {
-            "id": "9e2b16194d2c0fb2",
+            "id": "a4726c1f793d5b02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d2bcc5fb86e9d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04c9d114307c2487",
+            "id": "07f66fe2b8429a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Project Proposal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c91c736e8717f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UIUX.md",
+                "file": "scratch/Dynamic Layout Exp..md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIUX.md",
+                "file": "scratch/Dynamic Layout Exp..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIUX.md",
+                "file": "scratch/Dynamic Layout Exp..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIUX.md"
+                "file": "scratch/Dynamic Layout Exp..md"
               }
             }
           }
@@ -189,8 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38c91c736e8717f4",
+  "active": "07f66fe2b8429a5f",
   "lastOpenFiles": [
+    "scratch/Dynamic Layout Exp..md",
+    "Pasted image 20230516113609.png",
+    "Pasted image 20230516113418.png",
+    "Untitled.md",
+    "scratch",
+    "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
     "Practice Project Proposal.md",
     "UIUX.md",
     "To-Do.md",
