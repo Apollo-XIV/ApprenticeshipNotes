@@ -4,43 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6ede18069befc7da",
+        "id": "41bd102ab592e05b",
         "type": "tabs",
         "children": [
           {
-            "id": "a4726c1f793d5b02",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d2bcc5fb86e9d89",
+            "id": "4864bb502a709037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cloud Computing/Kubernetes/Tooling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07f66fe2b8429a5f",
+            "id": "028625e8567e5570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/Dynamic Layout Exp..md",
+                "file": "Project Goals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a996d13e3cf07512",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch/Dynamic Layout Exp..md",
+                "file": "Cloud Computing/Kubernetes/Tooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch/Dynamic Layout Exp..md",
+                "file": "Cloud Computing/Kubernetes/Tooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch/Dynamic Layout Exp..md"
+                "file": "Cloud Computing/Kubernetes/Tooling.md"
               }
             }
           }
@@ -185,12 +184,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07f66fe2b8429a5f",
+  "active": "4864bb502a709037",
   "lastOpenFiles": [
+    "Project Goals.md",
+    "Cloud Computing/Kubernetes/Tooling.md",
+    "Cloud Computing/Kubernetes",
+    "Untitled.md",
     "scratch/Dynamic Layout Exp..md",
+    "Pasted image 20230216171555.png",
+    "Pasted image 20230216171527.png",
+    "Deploying A Simple Site Using NGINX & Azure.md",
+    "Cloud Computing/Microsoft Azure/Resources & Resource Groups.md",
     "Pasted image 20230516113609.png",
     "Pasted image 20230516113418.png",
-    "Untitled.md",
     "scratch",
     "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
     "Practice Project Proposal.md",
