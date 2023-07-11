@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bb174bc41e66f6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "028625e8567e5570",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Kubernetes/Tooling.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Kubernetes/Tooling.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Kubernetes/Tooling.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -184,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4864bb502a709037",
+  "active": "bb174bc41e66f6dd",
   "lastOpenFiles": [
-    "Project Goals.md",
     "Cloud Computing/Kubernetes/Tooling.md",
+    "Notes.md",
+    "Project Goals.md",
     "Cloud Computing/Kubernetes",
     "Untitled.md",
     "scratch/Dynamic Layout Exp..md",
