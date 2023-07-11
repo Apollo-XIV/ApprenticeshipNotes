@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Archive/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,19 @@
             "id": "028625e8567e5570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Project Goals.md",
-                "mode": "source",
-                "source": false
+                "file": "Scratch/Untitled.canvas",
+                "viewState": {
+                  "x": 4,
+                  "y": 3,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Scratch/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Scratch/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Scratch/Untitled.canvas"
               }
             }
           }
@@ -197,27 +200,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb174bc41e66f6dd",
+  "active": "f1479001f1c9bd00",
   "lastOpenFiles": [
-    "Cloud Computing/Kubernetes/Tooling.md",
-    "Notes.md",
-    "Project Goals.md",
-    "Cloud Computing/Kubernetes",
     "Untitled.md",
-    "scratch/Dynamic Layout Exp..md",
-    "Pasted image 20230216171555.png",
-    "Pasted image 20230216171527.png",
-    "Deploying A Simple Site Using NGINX & Azure.md",
-    "Cloud Computing/Microsoft Azure/Resources & Resource Groups.md",
-    "Pasted image 20230516113609.png",
-    "Pasted image 20230516113418.png",
-    "scratch",
-    "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
-    "Practice Project Proposal.md",
-    "UIUX.md",
+    "Archive/Notes.md",
+    "Archive/UIUX.md",
+    "Archive/Project Goals.md",
     "To-Do.md",
+    "Archive/Deploying A Simple Site Using NGINX & Azure.md",
+    "Images/Pasted image 20230516113609.png",
+    "Archive/Practice Project Proposal.md",
+    "Images",
+    "Archive",
+    "Images/Pasted image 20230516113418.png",
+    "Images/Pasted image 20230216171555.png",
+    "Images/Pasted image 20230216171527.png",
+    "Images/Pasted image 20230203151118.png",
+    "Images/Pasted image 20230131161932.png",
+    "Cloud Computing/Kubernetes/Tooling.md",
+    "Cloud Computing/Kubernetes",
+    "Scratch/Dynamic Layout Exp..md",
+    "Cloud Computing/Microsoft Azure/Resources & Resource Groups.md",
+    "Scratch",
+    "Cloud Computing/Cloud Technology/Cloud Networking Technologies.md",
     "Cloud Computing/Cloud Compliance.md",
-    "Untitled.canvas",
+    "Scratch/Untitled.canvas",
     "Resources & Resource Groups.md",
     "Cloud Computing/Microsoft Azure/Microsoft Azure.md",
     "Cloud Computing/Microsoft Azure/Azure Storage.md",
