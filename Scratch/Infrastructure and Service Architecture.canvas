@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"7b8b24c1ddcaa16c","x":-638,"y":-656,"width":338,"height":396,"type":"text","text":"## next-server\n### Keys:\n- GITHUB_ID - public key\n- GITHUB_SECRET - private key\n- NEXTAUTH_SECRET - Session Token Decryption Key\n"},
+		{"id":"27ba53d90e8627b3","x":-638,"y":-1029,"width":342,"height":220,"type":"text","text":"## API\n### Keys:\n- DB_HOST - mongodb connection url"},
+		{"id":"09d44d09c85ff9b0","x":-120,"y":-949,"width":250,"height":60,"type":"text","text":"## Database"},
+		{"id":"2ba5d96a37771235","x":-594,"y":-20,"width":250,"height":60,"type":"text","text":"## next-static"},
+		{"id":"457f82660fbba41c","x":-960,"y":-488,"width":250,"height":60,"type":"text","text":"End User"},
+		{"type":"text","text":"# Infrastructure and Service Architecture\nThis is how the live services communicate with one another once they are live.","id":"66e173b1ecd16492","x":-225,"y":-820,"width":460,"height":240,"color":"5"}
+	],
+	"edges":[
+		{"id":"d04752dbe46cd1a1","fromNode":"7b8b24c1ddcaa16c","fromSide":"top","toNode":"27ba53d90e8627b3","toSide":"bottom"},
+		{"id":"2bf48c6fc9332111","fromNode":"27ba53d90e8627b3","fromSide":"right","toNode":"09d44d09c85ff9b0","toSide":"left"},
+		{"id":"6177d9259d8a545a","fromNode":"457f82660fbba41c","fromSide":"top","toNode":"27ba53d90e8627b3","toSide":"left"},
+		{"id":"4929e6b2f8642527","fromNode":"7b8b24c1ddcaa16c","fromSide":"left","toNode":"457f82660fbba41c","toSide":"right"},
+		{"id":"9cb250c08682adfb","fromNode":"457f82660fbba41c","fromSide":"bottom","toNode":"2ba5d96a37771235","toSide":"left"},
+		{"id":"b00dd5ac538d9365","fromNode":"7b8b24c1ddcaa16c","fromSide":"bottom","toNode":"2ba5d96a37771235","toSide":"top"}
+	]
+}

@@ -2,5 +2,7 @@
   "table-editor-obsidian",
   "obsidian-style-settings",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "marp"
 ]

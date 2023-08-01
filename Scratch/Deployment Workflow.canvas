@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Build Nextjs","id":"b13f6cdcd223e4ca","x":116,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"### Build API","id":"22f6b88c37c20bce","x":116,"y":40,"width":250,"height":60},
+		{"type":"text","text":"### Build & Push Server Image","id":"7516b48cdb1a8685","x":565,"y":-90,"width":250,"height":80},
+		{"type":"text","text":"### Build & Push Static Image","id":"00ba71141dac98eb","x":565,"y":32,"width":250,"height":76},
+		{"type":"text","text":"### Apply Changes to Kubernetes","id":"8e52f987fe8ab6b2","x":1020,"y":-93,"width":250,"height":83},
+		{"type":"text","text":"### Terraform Configuration Checked and Applied","id":"8af58677ea9fae6a","x":-460,"y":-220,"width":1275,"height":88},
+		{"type":"text","text":"### Build & Push API Image","id":"8a7950cd1a9670e4","x":565,"y":160,"width":250,"height":94},
+		{"type":"text","text":"### Check what services need building","id":"c342850cfab81021","x":-460,"y":-101,"width":354,"height":100},
+		{"type":"text","text":"# Github Workflow Diagram\n```\nmain.yml\n```","id":"d279c6dc9904c1c1","x":-460,"y":124,"width":652,"height":167}
+	],
+	"edges":[
+		{"id":"60089f68cae1c45f","fromNode":"c342850cfab81021","fromSide":"right","toNode":"b13f6cdcd223e4ca","toSide":"left"},
+		{"id":"8cccc2553d2bc23a","fromNode":"c342850cfab81021","fromSide":"right","toNode":"22f6b88c37c20bce","toSide":"left"},
+		{"id":"c43053b42ee1d7f9","fromNode":"b13f6cdcd223e4ca","fromSide":"right","toNode":"7516b48cdb1a8685","toSide":"left"},
+		{"id":"812728bf97c3a4ee","fromNode":"b13f6cdcd223e4ca","fromSide":"right","toNode":"00ba71141dac98eb","toSide":"left"},
+		{"id":"e2efa363d3591171","fromNode":"8af58677ea9fae6a","fromSide":"right","toNode":"8e52f987fe8ab6b2","toSide":"left"},
+		{"id":"13b180162f28d650","fromNode":"7516b48cdb1a8685","fromSide":"right","toNode":"8e52f987fe8ab6b2","toSide":"left"},
+		{"id":"ba4968bc95d97a76","fromNode":"00ba71141dac98eb","fromSide":"right","toNode":"8e52f987fe8ab6b2","toSide":"left"},
+		{"id":"19cb884e270877f7","fromNode":"22f6b88c37c20bce","fromSide":"right","toNode":"8a7950cd1a9670e4","toSide":"left"},
+		{"id":"f4e251f4cd1a1f4e","fromNode":"8a7950cd1a9670e4","fromSide":"right","toNode":"8e52f987fe8ab6b2","toSide":"left"}
+	]
+}
