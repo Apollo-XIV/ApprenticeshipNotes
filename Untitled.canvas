@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Pasted image 20230829214519.png","id":"8f1f89aa279b6235","x":-500,"y":-200,"width":941,"height":280},
+		{"type":"text","text":"working ecs service","id":"81a1016c5268101c","x":-552,"y":-292,"width":352,"height":60},
+		{"type":"file","file":"Pasted image 20230829214603.png","id":"6155d83f86ec0a00","x":-500,"y":220,"width":941,"height":267},
+		{"type":"text","text":"broken ass shit ass service","id":"c4e13536542bf6a2","x":-552,"y":120,"width":411,"height":60}
+	],
+	"edges":[]
+}
