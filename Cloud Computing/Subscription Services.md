@@ -12,4 +12,5 @@ this software allows for synchronous work on projects or documents, like shared 
 ## Virtual Desktop Infrastructure
 Similarly to Desktop as a Service, VDI provide remote access to workstation-class VMs. Apps and programs run on servers in datacenters rather than local machines, with computers in an organisation being replaced with Thin Clients instead.
 
-##
+## Directory and Identity Services
+Directory and Identity services enable single sign on, multifactor authentication, and other services and functions to an organisation. [[Azure Active Directory]] allows user and device management for example, as well as controlling user permissions.
