@@ -26,11 +26,4 @@ And the possible states are:
 Nodes are the physical machines that collectively create the cluster. A node can be anything from baremetal servers to VMs running in large cloud datacentres. Each node has a given amount of resources that it can distribute to pods running on them. Much of the benefit of Kubernetes is its ability to dynamically adjust where a pod is located so that load is distributed evenly across nodes, increasing the efficiency of the use of their resources. This is separate from load balancing, which distributes *traffic* among *pods*, instead of *pods* among *nodes*. 
 
 
-
-
-
-
-
-
-
 [^1]: A cluster is a group of linked computers that all run the Kubernetes engine and listen to the control plane of the cluster.
