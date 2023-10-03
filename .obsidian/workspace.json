@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Subscription Services.md",
+                "file": "Cloud Computing/Cloud Technology/Software Defined Storage (SDS).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Subscription Services.md",
+                "file": "Cloud Computing/Cloud Technology/Software Defined Storage (SDS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Subscription Services.md",
+                "file": "Cloud Computing/Cloud Technology/Software Defined Storage (SDS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Subscription Services.md"
+                "file": "Cloud Computing/Cloud Technology/Software Defined Storage (SDS).md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "14b9630d5b28c178",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Cloud Computing/Cloud Technology/Software Defined Storage (SDS).md",
+    "Cloud Computing/Cloud Models/Subscription Services.md",
     "Cloud Computing/Microsoft Azure/Azure Storage.md",
-    "Cloud Computing/Subscription Services.md",
     "Cloud Computing/AWS/Route 53.md",
     "Cloud Computing/AWS.md",
     "Cloud Computing/AWS",
@@ -203,12 +205,9 @@
     "Cloud Computing/Cloud Technology/Autoscaling.md",
     "Cloud Computing/Cloud Properties/Cloud Security.md",
     "Cloud Computing/Cloud Properties/Cloud Predictability.md",
-    "Cloud Computing/Cloud Properties/Cloud Manageability.md",
-    "Cloud Computing/Cloud Properties/Cloud Availability.md",
     "Waystar",
     "Scratch/Deployment Workflow.canvas",
     "media/issues.png",
-    "Untitled.canvas",
     "Pasted image 20230830191931.png",
     "Pasted image 20230829214603.png",
     "Pasted image 20230829214519.png"
